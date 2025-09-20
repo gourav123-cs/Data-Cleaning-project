@@ -1,0 +1,9 @@
+Title: Technical Specification for Project Titan Structural Beams
+Vendor: Apex Steelworks Inc.
+Date: 2025-09-10
+
+This document outlines the engineering and material specifications for the structural steel beams required for Project Titan. All materials must meet or exceed ASTM A992 standards for tensile strength and composition.
+
+The primary beams shall be W24x76 wide-flange sections, fabricated by Apex Steelworks Inc. All welding must be performed by certified welders in accordance with AWS D1.1 structural welding code. Inspections will be conducted by a third-party firm to ensure compliance.
+
+Load calculations are based on the revised architectural drawings dated August 15, 2025. Any deviation from these plans requires written approval from the chief engineer. The beams are to be coated with a rust-inhibiting primer before delivery to the site.
